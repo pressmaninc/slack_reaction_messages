@@ -1,0 +1,5 @@
+/csv/*.csv
+/vendor/*
+/.phpunit.result.cache
+/.phpunit.
+/.env

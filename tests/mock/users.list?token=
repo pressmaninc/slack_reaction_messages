@@ -1,0 +1,28 @@
+{
+    "ok": true,
+    "members": [
+        {
+            "id": "USLACKBOT",
+            "team_id": "team_id",
+            "name": "slackbot",
+            "deleted": false,
+            "color": "757575",
+            "real_name": "Slackbot",
+            "tz": "America\/Los_Angeles",
+            "tz_label": "Pacific Daylight Time",
+            "tz_offset": -25200,
+            "is_admin": false,
+            "is_owner": false,
+            "is_primary_owner": false,
+            "is_restricted": false,
+            "is_ultra_restricted": false,
+            "is_bot": false,
+            "is_app_user": false,
+            "updated": 0
+        }
+    ],
+    "cache_ts": 1596794295,
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}

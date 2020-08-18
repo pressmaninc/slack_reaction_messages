@@ -1,0 +1,34 @@
+{
+    "messages": [
+        {
+            "client_msg_id": "client_msg_id",
+            "type": "message",
+            "text": "text",
+            "user": "user",
+            "ts": "1597197492.001400",
+            "team": "team",
+            "thread_ts": "1597197492.001400",
+            "reply_count": 6,
+            "reply_users_count": 2,
+            "latest_reply": "1597198995.003100",
+            "reply_users": [
+                "user1",
+                "user2"
+            ],
+            "subscribed": true,
+            "last_read": "1597198995.003100"
+        },
+        {
+            "client_msg_id": "client_msg_id",
+            "type": "message",
+            "text": "text",
+            "user": "user",
+            "ts": "1597197576.001500",
+            "team": "team",
+            "thread_ts": "1597197492.001400",
+            "parent_user_id": "UFWCDBJ5P"
+        }
+    ],
+    "has_more": false,
+    "ok": true
+}

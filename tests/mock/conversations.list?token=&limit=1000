@@ -1,0 +1,36 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "channelid",
+            "name": "general",
+            "is_channel": true,
+            "is_group": false,
+            "is_im": false,
+            "created": 1420526005,
+            "is_archived": false,
+            "is_general": true,
+            "unlinked": 0,
+            "name_normalized": "general",
+            "is_shared": false,
+            "parent_conversation": null,
+            "creator": "creator",
+            "is_ext_shared": false,
+            "is_org_shared": false,
+            "shared_team_ids": [
+                "T03A246NQ"
+            ],
+            "pending_shared": [],
+            "pending_connected_team_ids": [],
+            "is_pending_ext_shared": false,
+            "is_member": true,
+            "is_private": false,
+            "is_mpim": false,
+            "previous_names": [],
+            "num_members": 41
+        }
+    ],
+    "response_metadata": {
+        "next_cursor": "dGVhbTpDRzVRV0NDNEQ="
+    }
+}

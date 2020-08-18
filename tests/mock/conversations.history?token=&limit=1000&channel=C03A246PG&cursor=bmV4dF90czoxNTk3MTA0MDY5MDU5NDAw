@@ -1,0 +1,37 @@
+{
+    "ok": true,
+    "messages": [
+        {
+            "client_msg_id": "client_msg_id",
+            "type": "message",
+            "text": "text",
+            "user": "user",
+            "ts": "1597104069.059400",
+            "team": "team",
+            "reactions": [
+                {
+                    "name": "clap::skin-tone-2",
+                    "users": [
+                        "user1"
+                    ],
+                    "count": 1
+                },
+                {
+                    "name": "sunglasses",
+                    "users": [
+                        "user1",
+                        "user2"
+                    ],
+                    "count": 2
+                }
+            ]
+        }
+    ],
+    "has_more": true,
+    "pin_count": 2,
+    "channel_actions_ts": null,
+    "channel_actions_count": 0,
+    "response_metadata": {
+        "next_cursor": ""
+    }
+}
