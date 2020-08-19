@@ -43,3 +43,4 @@ foreach($message_list as $channel_id => $messages) {
 		$csv->write($channel_id, $message, $user_list);
 	}
 }
+$csv->close();

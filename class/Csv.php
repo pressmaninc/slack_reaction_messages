@@ -30,4 +30,8 @@ class Csv
 		];
 		$this->write_row($row);
 	}
+
+	function close() {
+		return fclose($this->f);
+	}
 }

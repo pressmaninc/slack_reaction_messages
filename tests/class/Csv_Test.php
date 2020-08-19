@@ -78,4 +78,9 @@ class Csv_Test extends Parent_Class
 		$content = trim(file_get_contents($this->filepath));
 		$this->assertSame($content, "slackbot,text,1,hoge/archives/hoge/p12345678\nslackbot,text2,2,hoge/archives/hoge/p12345678?thread_ts=098765");
 	}
+
+	function test_close() {
+		$result = $this->csv->close();
+		$this->assertTrue($result);
+	}
 }
